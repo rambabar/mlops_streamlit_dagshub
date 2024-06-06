@@ -1,0 +1,6 @@
+mlflow
+dagshub
+pandas
+streamlit
+pytest
+scikit-learn

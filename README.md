@@ -1,0 +1,1 @@
+MLFLOW_TRACKING_URI = https://dagshub.com/rambabar/mlops_streamlit_dagshub.mlflow
